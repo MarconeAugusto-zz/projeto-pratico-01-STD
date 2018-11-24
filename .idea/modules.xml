@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STD.iml" filepath="$PROJECT_DIR$/.idea/modules/STD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/STD_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/STD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/STD_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-pratico-01-MarconeAugusto.iml" filepath="$PROJECT_DIR$/projeto-pratico-01-MarconeAugusto.iml" />
+    </modules>
+  </component>
+</project>
